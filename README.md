@@ -3,7 +3,7 @@
 The aim of this analysis was to review the most recent Covid-19 data source to look at the countries 
 with the most number of cases and deaths and see if these were related to a number of externally sourced indicators.
 
-The blog post is here: https://medium.com/@samcdonald6/is-there-finally-light-at-the-end-of-the-tunnel-an-analysis-of-covid-19-data-7387a72b7b10
+For Udacity Review: https://medium.com/@samcdonald6/is-there-finally-light-at-the-end-of-the-tunnel-an-analysis-of-covid-19-data-7387a72b7b10
 
 ### Data Sources
 Coronavirus dataset sourced here: https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide 
